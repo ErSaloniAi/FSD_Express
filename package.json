@@ -1,0 +1,17 @@
+{
+  "name": "fsd_t2",
+  "version": "1.0.0",
+  "description": "first project",
+  "license": "ISC",
+  "author": "Nidhi",
+  "type": "commonjs",
+  "main": "L1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "cookie-parser": "^1.4.7",
+    "express": "^5.2.1",
+    "multer": "^2.1.1"
+  }
+}
